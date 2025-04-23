@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: LFMMover
+## Notes: Mueve mensajes LFM a una ventana específica.
+## Author: TuNombre
+## Version: 1.0
+
+LFMMover.lua
